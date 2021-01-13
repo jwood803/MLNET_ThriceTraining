@@ -1,1 +1,1 @@
-# MLNET_ThriceTraining
+# ML.NET Thrice Training Sample
